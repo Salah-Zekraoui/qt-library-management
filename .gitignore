@@ -1,0 +1,68 @@
+# Build directories
+build/
+debug/
+release/
+Debug/
+Release/
+
+# Qt generated files
+ui_*.h
+moc_*.cpp
+qrc_*.cpp
+*_automoc.cpp
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+Makefile
+
+# Visual Studio files (if using VS)
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.user
+
+# Executables
+*.exe
+*.app
+*.dmg
+
+# Object files
+*.o
+*.obj
+
+# Library files
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Qt Creator files
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Runtime generated files
+resources.json
+history.json
+users.json
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.pro.user

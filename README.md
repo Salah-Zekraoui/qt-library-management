@@ -35,7 +35,7 @@ This was developed for my first-year computer science coursework to learn:
 ## Class Structure
 
 - `Resource` - Base class for all library items
-  - `Book`, `Article`, `Thesis`, `DigitalContent` - Different resource types
+- `Book`, `Article`, `Thesis`, `DigitalContent` - Different resource types
 - `User` - Handle user accounts
 - `MainWindow` - Main application interface
 

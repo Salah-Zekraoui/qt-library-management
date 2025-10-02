@@ -2,6 +2,10 @@
 
 A Library Management System built as a **first-year Object-Oriented Programming project**. This application manages library resources like books, articles, and digital content using C++ and Qt.
 
+## 🎥 Demo Video
+
+Watch the application in action: [Qt Library Management System Demo](https://www.youtube.com/watch?v=l_wQKpGPOLA&t=8s)
+
 ## About This Project
 
 This was developed for my first-year computer science coursework to learn:
